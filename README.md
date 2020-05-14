@@ -2,10 +2,14 @@
 
 **Google search engine** is a Desktop Application, it searches for anything you want which is mapping to google engine website by opening tabs in your browser with that looking for, also it has shortcuts for social media websites Facebook, youtube and Gmail.
 
-![alt text](img/google-search.PNG)
+![googles-earch-img](img/googles-earch.PNG)
 ## Getting Started
 
-'''python3 "Google search.py"'''
+you have **two** options
+1.  you can run it directly from command below <br>
+```python3 "Google search.py" ```
+2. Excute Google search setup.exe
+
 
 ### Prerequisites
 
